@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">#03A9F4</color>
+    <color name="splash_background">#1565C0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="outfit_card_background">#E3F2FD</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="error">#D32F2F</color>
+    <color name="high_temp">#E53935</color>
+    <color name="low_temp">#1E88E5</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="bottom_nav_color">#FF1565C0</color>
+</resources>
