@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16217006813",
+    "project_id": "simpleweatherapp-e94bc",
+    "storage_bucket": "simpleweatherapp-e94bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16217006813:android:e2553fe643853554fe7134",
+        "android_client_info": {
+          "package_name": "com.example.simpleweatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tY6MNkgWlTc9u5YvgSSd0dgB2EPnVhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

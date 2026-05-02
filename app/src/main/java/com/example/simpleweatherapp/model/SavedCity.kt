@@ -1,7 +1,5 @@
 package com.example.simpleweatherapp.model
 
-package com.example.simpleweatherapp.model
-
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
