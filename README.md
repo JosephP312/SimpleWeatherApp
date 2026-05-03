@@ -1,12 +1,12 @@
 # Simple Weather App
 
-**Simple Weather App** is a clean, user-friendly Android mobile application designed to help individuals quickly access current weather conditions, forecasts, and severe weather alerts for any city. The app automatically fetches real-time weather data and provides personalized outfit recommendations based on current conditions — giving users exactly what they need without the clutter or ads found in competing apps.
+**Simple Weather App** is a clean, user-friendly Android mobile application designed to help individuals quickly access current weather conditions, forecasts, and severe weather alerts for any city. The app automatically fetches real-time weather data and provides current conditions — giving users exactly what they need without the clutter or ads found in competing apps.
 
 ---
 
 ## Overview
 
-Most weather apps overwhelm users with information they never asked for and bombard them with intrusive advertisements. Simple Weather App solves this by presenting only the most relevant weather information in a clean, easy-to-read format. The app also includes a unique outfit recommendation engine that translates raw weather data into practical daily advice.
+Most weather apps overwhelm users with information they never asked for and bombard them with intrusive advertisements. Simple Weather App solves this by presenting only the most relevant weather information in a clean, easy-to-read format. The app also includes a simple way to translate raw weather data into practical daily advice.
 
 ---
 
