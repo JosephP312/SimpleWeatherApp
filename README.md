@@ -6,7 +6,7 @@
 
 ## Overview
 
-Most weather apps overwhelm users with information they never asked for and bombard them with intrusive advertisements. Simple Weather App solves this by presenting only the most relevant weather information in a clean, easy-to-read format. The app also includes a unique outfit recommendation engine that translates raw weather data into practical daily clothing advice — a feature no major weather competitor currently offers at this level of integration.
+Most weather apps overwhelm users with information they never asked for and bombard them with intrusive advertisements. Simple Weather App solves this by presenting only the most relevant weather information in a clean, easy-to-read format. The app also includes a unique outfit recommendation engine that translates raw weather data into practical daily advice.
 
 ---
 
@@ -14,7 +14,6 @@ Most weather apps overwhelm users with information they never asked for and bomb
 
 - **Real-Time Weather:** Automatically detects the user's GPS location and loads current conditions on launch.
 - **5-Day Forecast:** Displays a horizontal scrollable forecast strip with daily highs and lows.
-- **Outfit Recommender:** Suggests what to wear based on the current temperature and weather conditions.
 - **My Cities:** Save, manage, and organize multiple city locations with swipe-to-delete and long-press to set default.
 - **Severe Weather Alerts:** Push notifications delivered via Firebase Cloud Messaging for dangerous conditions.
 - **Offline-First Design:** Caches the last fetched weather data locally using Room so the app works without internet.
